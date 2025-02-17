@@ -50,7 +50,7 @@ h1 {
 .resultado {
     width: 300px;
     display: none;
-    border: 1px dotted #FFF;
+    border: 1px solid #c5c5c5;
     margin-top: 20px;
     border-radius: 5px;
     background-color: rgba(0, 0, 0, 0.2);
@@ -79,13 +79,13 @@ h1 {
 }
 .tempTitulo,
 .ventoTitulo {
-    color: #777;
+    color: #000000;
     font-size: 16px;
     margin-bottom: 5px;
 }
 .tempInfo,
 .ventoInfo {
-    color: #FFF;
+    color: #000000;
     font-size: 30px;
     font-weight: bold;
 }
